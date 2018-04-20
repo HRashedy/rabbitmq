@@ -1,0 +1,11 @@
+c:\users\hrashedy\source\repos\rabbitmMQ\rabbitmMQ\bin\Debug\netcoreapp2.0\rabbitmMQ.deps.json
+c:\users\hrashedy\source\repos\rabbitmMQ\rabbitmMQ\bin\Debug\netcoreapp2.0\rabbitmMQ.runtimeconfig.json
+c:\users\hrashedy\source\repos\rabbitmMQ\rabbitmMQ\bin\Debug\netcoreapp2.0\rabbitmMQ.runtimeconfig.dev.json
+c:\users\hrashedy\source\repos\rabbitmMQ\rabbitmMQ\bin\Debug\netcoreapp2.0\rabbitmMQ.dll
+c:\users\hrashedy\source\repos\rabbitmMQ\rabbitmMQ\obj\Debug\netcoreapp2.0\rabbitmMQ.csproj.CoreCompileInputs.cache
+c:\users\hrashedy\source\repos\rabbitmMQ\rabbitmMQ\obj\Debug\netcoreapp2.0\rabbitmMQ.AssemblyInfoInputs.cache
+c:\users\hrashedy\source\repos\rabbitmMQ\rabbitmMQ\obj\Debug\netcoreapp2.0\rabbitmMQ.AssemblyInfo.cs
+c:\users\hrashedy\source\repos\rabbitmMQ\rabbitmMQ\bin\Debug\netcoreapp2.0\rabbitmMQ.pdb
+c:\users\hrashedy\source\repos\rabbitmMQ\rabbitmMQ\obj\Debug\netcoreapp2.0\rabbitmMQ.dll
+c:\users\hrashedy\source\repos\rabbitmMQ\rabbitmMQ\obj\Debug\netcoreapp2.0\rabbitmMQ.pdb
+C:\Users\HRashedy\source\repos\rabbitmMQ\rabbitmMQ\obj\Debug\netcoreapp2.0\rabbitmMQ.csprojResolveAssemblyReference.cache

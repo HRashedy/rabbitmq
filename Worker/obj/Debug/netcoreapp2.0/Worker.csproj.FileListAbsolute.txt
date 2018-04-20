@@ -1,0 +1,11 @@
+C:\Users\HRashedy\source\repos\rabbitmMQ\Worker\bin\Debug\netcoreapp2.0\Worker.deps.json
+C:\Users\HRashedy\source\repos\rabbitmMQ\Worker\bin\Debug\netcoreapp2.0\Worker.runtimeconfig.json
+C:\Users\HRashedy\source\repos\rabbitmMQ\Worker\bin\Debug\netcoreapp2.0\Worker.runtimeconfig.dev.json
+C:\Users\HRashedy\source\repos\rabbitmMQ\Worker\bin\Debug\netcoreapp2.0\Worker.dll
+C:\Users\HRashedy\source\repos\rabbitmMQ\Worker\bin\Debug\netcoreapp2.0\Worker.pdb
+C:\Users\HRashedy\source\repos\rabbitmMQ\Worker\obj\Debug\netcoreapp2.0\Worker.csproj.CoreCompileInputs.cache
+C:\Users\HRashedy\source\repos\rabbitmMQ\Worker\obj\Debug\netcoreapp2.0\Worker.AssemblyInfoInputs.cache
+C:\Users\HRashedy\source\repos\rabbitmMQ\Worker\obj\Debug\netcoreapp2.0\Worker.AssemblyInfo.cs
+C:\Users\HRashedy\source\repos\rabbitmMQ\Worker\obj\Debug\netcoreapp2.0\Worker.dll
+C:\Users\HRashedy\source\repos\rabbitmMQ\Worker\obj\Debug\netcoreapp2.0\Worker.pdb
+C:\Users\HRashedy\source\repos\rabbitmMQ\Worker\obj\Debug\netcoreapp2.0\Worker.csprojResolveAssemblyReference.cache

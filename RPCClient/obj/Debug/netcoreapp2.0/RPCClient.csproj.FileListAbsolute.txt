@@ -1,0 +1,10 @@
+C:\Users\HRashedy\source\repos\rabbitmMQ\RPCClient\bin\Debug\netcoreapp2.0\RPCClient.deps.json
+C:\Users\HRashedy\source\repos\rabbitmMQ\RPCClient\bin\Debug\netcoreapp2.0\RPCClient.runtimeconfig.json
+C:\Users\HRashedy\source\repos\rabbitmMQ\RPCClient\bin\Debug\netcoreapp2.0\RPCClient.runtimeconfig.dev.json
+C:\Users\HRashedy\source\repos\rabbitmMQ\RPCClient\bin\Debug\netcoreapp2.0\RPCClient.dll
+C:\Users\HRashedy\source\repos\rabbitmMQ\RPCClient\bin\Debug\netcoreapp2.0\RPCClient.pdb
+C:\Users\HRashedy\source\repos\rabbitmMQ\RPCClient\obj\Debug\netcoreapp2.0\RPCClient.csproj.CoreCompileInputs.cache
+C:\Users\HRashedy\source\repos\rabbitmMQ\RPCClient\obj\Debug\netcoreapp2.0\RPCClient.AssemblyInfoInputs.cache
+C:\Users\HRashedy\source\repos\rabbitmMQ\RPCClient\obj\Debug\netcoreapp2.0\RPCClient.AssemblyInfo.cs
+C:\Users\HRashedy\source\repos\rabbitmMQ\RPCClient\obj\Debug\netcoreapp2.0\RPCClient.dll
+C:\Users\HRashedy\source\repos\rabbitmMQ\RPCClient\obj\Debug\netcoreapp2.0\RPCClient.pdb
